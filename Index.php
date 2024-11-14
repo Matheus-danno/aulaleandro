@@ -41,6 +41,8 @@
     <a href="cadastro_culturas/culturas.php"><button style="display: block; margin: 0 auto;">Gerenciar Culturas</button></a>
 
     <h1>TESTE ALTERACAO</h1>
+    <h1>TESTE ALTERACAO2</h1>
+
     
 </body>
 </html>
